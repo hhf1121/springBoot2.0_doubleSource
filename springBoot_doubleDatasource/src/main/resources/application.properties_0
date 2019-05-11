@@ -1,0 +1,14 @@
+## springBoot2.0  :datasource:^spring.*.*
+## source-1
+spring.datasource.test01.driver-class-name=com.mysql.jdbc.Driver
+spring.datasource.test01.url=jdbc:mysql://127.0.0.1:3306/test01?useUnicode=true&characterEncoding=utf-8
+spring.datasource.test01.username=root
+spring.datasource.test01.password=feixiang
+## source-2
+spring.datasource.test02.driver-class-name=com.mysql.jdbc.Driver
+spring.datasource.test02.url=jdbc:mysql://127.0.0.1:3306/test02?useUnicode=true&characterEncoding=utf-8
+spring.datasource.test02.username=root
+spring.datasource.test02.password=feixiang
+
+## log
+mybatis.configuration.log-impl: org.apache.ibatis.logging.stdout.StdOutImpl

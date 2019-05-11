@@ -1,0 +1,127 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.hhf.config.DBconfig1",
+      "name": "atomikos.datasource.test01",
+      "type": "com.hhf.config.DBconfig1"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig2",
+      "name": "atomikos.datasource.test02",
+      "type": "com.hhf.config.DBconfig2"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.hhf.config.DBconfig1",
+      "name": "atomikos.datasource.test01.borrow-connection-timeout",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig1",
+      "name": "atomikos.datasource.test01.login-timeout",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig1",
+      "name": "atomikos.datasource.test01.maintenance-interval",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig1",
+      "name": "atomikos.datasource.test01.max-idle-time",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig1",
+      "name": "atomikos.datasource.test01.max-lifetime",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig1",
+      "name": "atomikos.datasource.test01.max-pool-size",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig1",
+      "name": "atomikos.datasource.test01.min-pool-size",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig1",
+      "name": "atomikos.datasource.test01.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig1",
+      "name": "atomikos.datasource.test01.test-query",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig1",
+      "name": "atomikos.datasource.test01.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig1",
+      "name": "atomikos.datasource.test01.username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig2",
+      "name": "atomikos.datasource.test02.borrow-connection-timeout",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig2",
+      "name": "atomikos.datasource.test02.login-timeout",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig2",
+      "name": "atomikos.datasource.test02.maintenance-interval",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig2",
+      "name": "atomikos.datasource.test02.max-idle-time",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig2",
+      "name": "atomikos.datasource.test02.max-lifetime",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig2",
+      "name": "atomikos.datasource.test02.max-pool-size",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig2",
+      "name": "atomikos.datasource.test02.min-pool-size",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig2",
+      "name": "atomikos.datasource.test02.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig2",
+      "name": "atomikos.datasource.test02.test-query",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig2",
+      "name": "atomikos.datasource.test02.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hhf.config.DBconfig2",
+      "name": "atomikos.datasource.test02.username",
+      "type": "java.lang.String"
+    }
+  ]
+}
